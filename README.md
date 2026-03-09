@@ -28,11 +28,10 @@ A diferencia de un modelo lineal, **EcoCity 2050** incorpora incertidumbre y var
 
 ## 📁 Estructura del Repositorio
 *   `ecoCity.py`: Código fuente original del modelo en Python.
-*   `frontend/`: Dashboard interactivo para la visualización de la simulación.
-    *   `index.html`: Estructura del tablero de control.
-    *   `style.css`: Estilos visuales futuristas.
-    *   `simulation.js`: El "Cerebro" con la lógica matemática y distribuciones.
-    *   `ui.js`: Controlador de la interfaz y actualización de gráficas.
+*   `index.html`: Estructura del tablero de control (Principal).
+*   `style.css`: Estilos visuales futuristas.
+*   `simulation.js`: El "Cerebro" con la lógica matemática y distribuciones.
+*   `ui.js`: Controlador de la interfaz y actualización de gráficas.
 
 ---
 
